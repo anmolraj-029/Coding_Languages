@@ -1,3 +1,6 @@
 there are varoius coding languages.
 some of them are:
 c,c++,c#,java
+ruby,python,
+Now moving ahead..
+MongoDB is a source-available cross-platform document-oriented database program.
